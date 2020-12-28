@@ -39,7 +39,7 @@ Matlab code to reproduce our works.
 
 ## About our works
 
-1. Jiang F, Wang K, Dong L, et al. AI Driven Heterogeneous MEC System with UAV Assistance for Dynamic Environment - Challenges and Solutions[J]. arXiv preprint arXiv:2002.05020, 2020.
+1. Feibo Jiang ; Kezhi Wang ; Li Dong ; C. Pan; W. Xu and K. Yang. AI Driven Heterogeneous MEC System with UAV Assistance for Dynamic Environment - Challenges and Solutions [J]. IEEE network, 2020, DOI: 10.1109/MNET.011.2000440.
 
 ## About authors
 
